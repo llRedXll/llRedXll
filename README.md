@@ -20,15 +20,11 @@
   </a>
 </p>
 
----
-
 ## Languages and Tools
 
 <br />
 
 ![skills](https://skillicons.dev/icons?i=html,css,js,git,mongodb,express,react,nodejs,vscode,sass,tailwind,ai,ps&theme=dark)
-
----
 
 ## My Stats
 
