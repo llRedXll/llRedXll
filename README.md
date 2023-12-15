@@ -8,7 +8,6 @@
 
 - 💼 Check out my portfolio at [www.hectorgarcia.dev](https://www.hectorgarcia.dev)
 - 🖤 I love design, playing board games, and solving problems
-- ⚡ Fun fact I'm the **#1 DJ** in my house
 
 <br />
 <p >
